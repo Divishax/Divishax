@@ -1,23 +1,22 @@
 <h1 align="center">Hey 👋, I'm Divisha</h1>
-<h3 align="center">A passionate web developer with a thirst for knowledge and a love for crafting beautiful, functional UIs. My playground is React, where I wield Tailwind CSS like a seasoned alchemist to conjure up stunning interfaces. When I'm not building pixel-perfect websites, I'm exploring the fascinating world of machine learning, eager to understand its potential and unlock its mysteries. My Mission: To level up my skills with every project, pushing the boundaries of what's possible and constantly evolving my technical prowess.</h3>
+<h3 align="center">I am a final-year Computer Science student, specializing in Data Science, with a strong foundation in programming, problem-solving, and data analysis.I am currently an Engineering Intern at Publicis Sapient, focusing on React development. Feel free to explore my repositories or reach out if you’d like to collaborate on meaningful projects!</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **next.js**
+- 🌱 I’m currently learning **react.js**
 
 - 👯 I’m looking to collaborate on **web dev projects**
 
-- 🤝 I’ have recently worked on **nike like website**
+- 🤝 I’ have recently worked on **Emotion detection using CNN**
 
-- 💬 Ask me about **react,javascript,data analysis, ml**
+- 💬 Ask me about **react,javascript,data analysis**
 
 - 📫 How to reach me **divishaagandhi@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PIJTLz_DgnQR3c1zNKudSShlVOvOKhVQ/view?usp=drive_link](https://drive.google.com/file/d/1PIJTLz_DgnQR3c1zNKudSShlVOvOKhVQ/view?usp=drive_link)
 
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
