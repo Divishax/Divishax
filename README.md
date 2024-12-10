@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Divisha</h1>
-<h3 align="center">I am a final-year Computer Science student, specializing in Data Science, with a strong foundation in programming, problem-solving, and data analysis.I am currently an Engineering Intern at Publicis Sapient, focusing on React development. Feel free to explore my repositories or reach out if you’d like to collaborate on meaningful projects!</h3>
+<h3 align="center">I am a final-year Computer Science student, specializing in Data Science, with a strong foundation in programming, problem-solving, and data analysis.I am currently an Engineering Intern, focusing on React development. Feel free to explore my repositories or reach out if you’d like to collaborate on meaningful projects!</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
