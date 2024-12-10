@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **divishaagandhi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PIJTLz_DgnQR3c1zNKudSShlVOvOKhVQ/view?usp=drive_link](https://drive.google.com/file/d/1PIJTLz_DgnQR3c1zNKudSShlVOvOKhVQ/view?usp=drive_link)
+- 📄 Know about my experiences https://docs.google.com/document/d/1CKUhYqMKjnIQNplDEWverkkCJ-6Zk5Kx/edit?usp=sharing&ouid=101110778658778152231&rtpof=true&sd=true
 
 
 <h3 align="left">Connect with me:</h3>
